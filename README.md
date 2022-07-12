@@ -1,3 +1,7 @@
+# summary 
+sagitaは原著作物と二次的著作物の関係性をビジュアライズするプロトコルです。
+原著作と二次的著作物の関係とその強さをオンチェーンに刻みます
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
